@@ -17,8 +17,6 @@ links = [
     { title = "GitHub", url = "https://github.com/taoo0316", icon = "github" }
 ]
 
-[extra.author]
-name = "Hallo"
 
 [extra.theme]
 background = "#6FCDBD"

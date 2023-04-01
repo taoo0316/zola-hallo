@@ -1,6 +1,5 @@
-base_url = "https://zola-hallo.janbaudisch.dev"
+base_url = "https://zola-hallo.taoo0316.vercel.app/"
 title = "Hallo"
-theme = "hallo"
 
 compile_sass = true
 

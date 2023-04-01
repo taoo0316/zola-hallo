@@ -1,5 +1,6 @@
 base_url = "https://zola-hallo.janbaudisch.dev"
 title = "Hallo"
+theme = "hallo"
 
 compile_sass = true
 

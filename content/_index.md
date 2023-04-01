@@ -1,3 +1,3 @@
 +++
 +++
-Hallo is a single-page theme to introduce yourself. Add a portrait, an introduction, several links, and you're set. The introduction goes into content/_index.md. Create a file called portrait.jpg in static/images to replace the standard portrait.
+Welcome to my single-page website. Here, you can find my email address and GitHub profile. To learn more about me, you can visit [here](https://taoo0316.github.io/).
